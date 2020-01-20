@@ -35,7 +35,7 @@ speed_limit = MAX_SPEED
 #registering event handler for the server
 @sio.on('telemetry')
 def telemetry(sid, data):
-    if data:
+    if data: 
         # The current steering angle of the car
         steering_angle = float(data["steering_angle"])
         # The current throttle of the car, how hard to push peddle
