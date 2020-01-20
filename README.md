@@ -6,7 +6,7 @@ Link to download udacity car simulator (Linux): https://s3-us-west-1.amazonaws.c
 
 Part 1 : ( Data Generation Part)
 
-Driving a car manually with keyboard resulting in generation of CSV file and Image folder
+Driving a car manually with keyboard results in generation of CSV file and Image folder
 
 Part 2 : (Training Part)
 
