@@ -11,3 +11,7 @@ Driving a car manually with keyboard resulting in generation of CSV file and Ima
 Part 2 : (Training Part)
 
 Fetch the csv file into the train.py which will result in generation of model
+
+Part 3 : (Testing Part)
+
+Use test.py to drive the car
